@@ -22,7 +22,7 @@ l’utilisateur gagne son pari, le montant gagné est calculé selon le type du 
 - Pour un pari couplé gagnant ordonné : le montant gagné équivaut à 3.5 fois la mise.
 - Pour un pari couplé gagnant non ordonné : le montant gagné équivaut à 2.5 fois la mise.
 
-----
+
 Demostration of program:
 ----
 
